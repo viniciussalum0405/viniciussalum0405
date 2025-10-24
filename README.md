@@ -36,33 +36,17 @@ No meu dia a dia, utilizo a lógica de processos para construir soluções efici
 
 # 🤖 Linguagens e Tecnologias
 
-<div style="display:flex; align-items:center; justify-content:space-between; gap:16px;">
-
-  <!-- ESQUERDA: ícones em uma linha -->
-  <div style="white-space:nowrap;">
-    <img alt="Python"      title="Python"      height="48" style="margin-right:12px; vertical-align:middle;"
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img alt="Alteryx"     title="Alteryx"     height="48" style="margin-right:12px; vertical-align:middle;"
-         src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Alteryx_logo.svg" />
-    <img alt="PostgreSQL"  title="PostgreSQL"  height="48" style="margin-right:12px; vertical-align:middle;"
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-    <img alt="HTML"        title="HTML"        height="48" style="margin-right:12px; vertical-align:middle;"
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img alt="CSS"         title="CSS"         height="48" style="margin-right:12px; vertical-align:middle;"
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img alt="JavaScript"  title="JavaScript"  height="48" style="margin-right:12px; vertical-align:middle;"
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img alt="React"       title="React"       height="48" style="margin-right:12px; vertical-align:middle;"
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img alt="VueJS"       title="VueJS"       height="48" style="margin-right:12px; vertical-align:middle;"
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  </div>
-
-
-  <img alt="coding gif"
-       src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Q4ZTFhYWowZHZnYjBpbXBzdDNuZ3hubjMwNDZhbG9na3M0OG5nZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"
-       style="width:10px;">
-</div>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+    <div style="display: flex; align-items: center;">
+        <img alt="Python" title="Python" width="60px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+        <img alt="Alteryx" title="Alteryx" height="50px" style="padding-right: 10px;" src="https://cdn.brandfetch.io/id9_d11aqZ/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1667654409228" />
+        <img alt="postgreSQL" title="postgreSQL" width="60px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+        <img alt="HTML" title="HTML" width="60px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+        <img alt="CSS" title="CSS" width="60px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+        <img alt="JavaScript" title="JavaScript" width="60px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+        <img alt="React" title="React" width="60px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+        <img alt="VueJS" title="VueJS" width="60px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"/>
+    </div>
 
 
 <br/>
@@ -86,9 +70,17 @@ No meu dia a dia, utilizo a lógica de processos para construir soluções efici
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="300" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciusmendessalum&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+  
+
+  <img
+      src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Q4ZTFhYWowZHZnYjBpbXBzdDNuZ3hubjMwNDZhbG9na3M0OG5nZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif?v=2"
+      width="200"
+      style="border-radius:12px; display:block;"
+      alt="coding gif"
+    />
 
 </div>
 
