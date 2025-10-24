@@ -97,7 +97,7 @@ No meu dia a dia, utilizo a lógica de processos para construir soluções efici
 
 <div style="display: inline_block">
 
-![Snake animation](https://github.com/Viniciusmendessalum/Viniciusmendessalum/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/viniciusmendessalum/viniciusmendessalum/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
