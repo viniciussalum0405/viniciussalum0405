@@ -7,7 +7,7 @@ No meu dia a dia, utilizo a lógica de processos para construir soluções efici
 
 #
 
-<img align="right" alt="" height="220px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Q4ZTFhYWowZHZnYjBpbXBzdDNuZ3hubjMwNDZhbG9na3M0OG5nZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
+<img align="right" alt="" height="200px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Q4ZTFhYWowZHZnYjBpbXBzdDNuZ3hubjMwNDZhbG9na3M0OG5nZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
 <h3 align="left">Connect with me!</h3>
 
@@ -63,8 +63,6 @@ No meu dia a dia, utilizo a lógica de processos para construir soluções efici
   />
   
 </div>
-
-
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viniciussalum0405/viniciussalum0405/output/github-contribution-grid-snake-dark.svg">
