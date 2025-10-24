@@ -89,17 +89,8 @@ No meu dia a dia, utilizo a lógica de processos para construir soluções efici
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-<div style="display: inline_block">
-
 ![Snake animation](https://github.com/viniciussalum0405/viniciussalum0405/blob/output/github-contribution-grid-snake.svg)
 
-</div>
 
 
 
