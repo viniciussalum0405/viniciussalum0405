@@ -84,11 +84,7 @@ No meu dia a dia, utilizo a lógica de processos para construir soluções efici
 
 </div>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viniciussalum0405/viniciussalum0405/output/github-contribution-grid-snake-dark.svg">
